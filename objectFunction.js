@@ -13,7 +13,12 @@ const students = [{
     lastname:'Gil',
     age: 30,
     gender: 'male',
-}]
+}, {
+    male: 'john',
+    lastname: 'sweeney', 
+    age: '19',
+    gender: 'male',
+}
 
 
 
